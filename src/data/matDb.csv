@@ -1,0 +1,13 @@
+name,Elastic Modulus,Yield Strength,Ultimate Strength,Shear Strength,Toughness,Density (kg/m^3),Melting Temp,Material Cost (beta),Material Type,"Hardness, Vickers"
+"Aluminum, 6061 T6",68.9,276,310,207,,2700,582,0,metal,107
+PLA (FDM),2.75,,76,,26.6,1250,155,0,plastic,
+PETG-HF (FDM),2.05,,64,,31.5,1230,260,0,plastic,
+ABS (FDM),1.88,,62,,39.3,1040,190,0,plastic,
+ABS-GF (FDM),2.86,,68,,14.5,1280,190,0,plastic,
+ASA (FDM),1.92,,65,,41,1070,170,0,plastic,
+Polycarbonate (FDM),2.31,,108,,34.8,1200,280,0,plastic,
+PLA-CF (FDM),3.95,,89,,23.2,1300,155,0,plastic,
+PETG-CF (FDM),2.91,,70,,41.2,1280,260,0,plastic,
+PET-CF (FDM),5.32,,131,,36,1290,250,0,plastic,
+PA6-CF (FDM),5.46,,151,,40.3,1270,223,0,plastic,
+PA6-GF (FDM),3.67,,120,,27.2,1360,223,0,plastic,
